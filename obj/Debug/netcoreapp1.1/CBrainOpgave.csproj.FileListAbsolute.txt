@@ -1,0 +1,9 @@
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\bin\Debug\netcoreapp1.1\CBrainOpgave.deps.json
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\bin\Debug\netcoreapp1.1\CBrainOpgave.runtimeconfig.json
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\bin\Debug\netcoreapp1.1\CBrainOpgave.runtimeconfig.dev.json
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\bin\Debug\netcoreapp1.1\CBrainOpgave.dll
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\bin\Debug\netcoreapp1.1\CBrainOpgave.pdb
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\obj\Debug\netcoreapp1.1\CBrainOpgave.csprojResolveAssemblyReference.cache
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\obj\Debug\netcoreapp1.1\CBrainOpgave.AssemblyInfo.cs
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\obj\Debug\netcoreapp1.1\CBrainOpgave.dll
+c:\users\teis\documents\visual studio 2017\Projects\CBrainOpgave\CBrainOpgave\obj\Debug\netcoreapp1.1\CBrainOpgave.pdb
